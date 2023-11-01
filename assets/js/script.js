@@ -9,7 +9,7 @@ var navLinks = document.getElementById("navLinks");
 
 /*-- Text Typing animation --*/
 var typed = new Typed('.type', {
-    strings: ['Drop Shipping', 'App Develoment', 'Software Solution', 'ERP Software Solution'],
+    strings: ['Web Development', 'Mobile App Develoment', 'Bot&Automation Development', 'Blockchain Development'],
     typeSpeed: 50,
     backSpeed: 50,
     loop: true,
